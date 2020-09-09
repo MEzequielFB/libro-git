@@ -1,1 +1,3 @@
 Chac, S. and Straub, B. Pro Git. Apress.
+
+Ryan Hodson. Ry´s Tutorial. Smashwords (2014)
